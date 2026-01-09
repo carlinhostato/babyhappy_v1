@@ -72,6 +72,4 @@ Abrir http://localhost/babyhappy_v1/login.html no navegador.
 
 ------------------------------------------------------------------------------------------------------
 
-📡 Arquitetura Técnica do Chat O sistema utiliza um mecanismo de Heartbeat onde o cliente (browser) envia um pulso de atividade ao servidor a cada 25 segundos. O servidor compara este timestamp para determinar se o parceiro de conversa está online (diferença < 60s) ou offline.
-
-📄 Licença Este projeto está sob a licença MIT.👶 BabyHappy (v1.0) O BabyHappy é uma plataforma desenvolvida para ligar pais e babysitters de forma eficiente e segura. Esta primeira versão foca-se na comunicação direta e na transparência de atividade dos utilizadores através de um sistema de chat robusto.
+📄 Licença Este projeto está sob a licença MIT.
